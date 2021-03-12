@@ -1,5 +1,5 @@
 ---
-title: Abundance, Against Scarcity
+title: The Abundance Mindset
 date: 2021-03-12T00:28:30.847Z
 author: Anonymous
 summary: Placeholder

@@ -10,9 +10,9 @@ tags:
   - projects
   - remilia-cards
 ---
-
-
 ![](/static/img/imgbin-monster-girl-encyclopedia-basilisk-snake-lamia-snake-udajswqucw0v53yhltzfigrxs_t.jpg)
+
+Ome Onno will produce a series of trading cards sold as collectable NFTs in a fictional card game inspired by Magic: The Gathering's game-breaking meta exploit community.
 
 The cards in the game will feature monsters, items and traps. The monsters will all be some anthropomorphized to some form indicative of the female gender.
 
@@ -31,8 +31,6 @@ Each set of 15 will have 6-9 monster girl cards. If all monster girls in the set
 "Set Booster Packs" holding cards of only a specific set will be sold, but only during the period of which that set is "printing", and a new collaborative set has not been released; at which point that new set will be sold in the Set Booster Pack. In this way, after the initial round, collecting all the cards in an older set can only be achieved through trading, or increasingly diluted booster packs.
 
 "Rare Booster Packs" will also be sold at a premium that feature lower distribution of common and higher distribution of uncommon, rare and ultra-rare cards (30%, 50%, 16%, 4%).
-
-
 
 ![](/static/img/untitled.png)
 

@@ -7,6 +7,7 @@ summary: "Ome Onno will produce a series of trading cards in a fictional, but
   game-breaking meta exploit community."
 tags:
   - post
+  - projects
 ---
 
 

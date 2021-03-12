@@ -5,5 +5,7 @@ author: Anonymous
 summary: Placeholder
 tags:
   - post
+  - remilia-philosophy
+  - remilia-world
 ---
 Placeholder

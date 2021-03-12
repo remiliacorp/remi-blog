@@ -6,5 +6,7 @@ summary: 1000 artists (333 artists with 3 identities each) with 5 sons each
   dynasty, Six Thousand Man dynasty with one Jade Cabbage per Household dynasty.
 tags:
   - post
+  - remilia-philosophy
+  - remilia-world
 ---
 1000 artists (333 artists with 3 identities each) with 5 sons each dynasty, Six Thousand Man dynasty with one Jade Cabbage per Household dynasty.

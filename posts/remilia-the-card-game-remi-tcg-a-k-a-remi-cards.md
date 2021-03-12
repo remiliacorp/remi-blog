@@ -20,14 +20,18 @@ Each cards will be prepared in thematic sets of 15 in collaboration with a RemCo
 
 The cards will be sold in an experimental financial minigame exploiting NFT technology in a fictional trading card economy. Cards will be distributed in common, uncommon, rare and ultra-rare volumes (60%, 30%, 8%, 2%) through weekly English-style auctions selling booster packs, with 3 cards in each pack with the cards unknown until the auction is completed and the pack is "opened". Unopened packs may be held and resold.
 
+![](/static/img/18372967-white-blank-foil-packaging-plastic-pack-ready-for-your-design-snack-product-packing.jpg)
+
 Each set of 15 will have 6-9 monster girl cards. If all monster girls in the set are collected and held in one wallet, a special prize monster girl "Queen" card, will be rewarded to the wallet in the form of an airdropped NFT. If all cards in the set are collected, a 3D sculpted "figurine" will be rewarded.
 
 *Note: There will be a 5% reseller fee on resale of cards to tax an exploit where users may all share their cards to each other and farm the free reward drop.*
 
-![](/static/img/untitled.png)
-
 "Set Booster Packs" holding cards of only a specific set will be sold, but only during the period of which that set is "printing", and a new collaborative set has not been released; at which point that new set will be sold in the Set Booster Pack. In this way, after the initial round, collecting all the cards in an older set can only be achieved through trading, or increasingly diluted booster packs.
 
 "Rare Booster Packs" will also be sold at a premium that feature lower distribution of common and higher distribution of uncommon, rare and ultra-rare cards (30%, 50%, 16%, 4%).
+
+
+
+![](/static/img/untitled.png)
 
 **Here we achieve a blend of artificially scarce collectable & transparent gamification, with actual artistic interest as well as the complexity of long-term speculative value tied to artist's clout; while giving a space to explore Ome Onno's creative meditations on TCG meta.**

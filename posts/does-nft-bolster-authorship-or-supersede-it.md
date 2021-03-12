@@ -6,7 +6,7 @@ summary: NFT extends and formalizes authorship via the blockhain ledger, however
   NFT also undermines authorship,
 tags:
   - post
-  - musings
+  - nft-musings
 ---
 I've been thinking about what NFT means for authorship and I think it does overall benefit the goal of undermining authorship/copyright by essentially the sale of the work is also all rights attributable to the work copyright is actually not a par o f the equation at all e.g. a beeple painting, its freely copied and reposted because all the value is now attributed to the ownership of the token. no one cares about screenshotting it
 

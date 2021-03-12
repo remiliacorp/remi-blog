@@ -5,7 +5,7 @@ author: Anonymous
 summary: On Remilia Cards internal rules
 tags:
   - post
-  - project
+  - projects
   - remilia-cards
 ---
 ![](/static/img/untitled.png)

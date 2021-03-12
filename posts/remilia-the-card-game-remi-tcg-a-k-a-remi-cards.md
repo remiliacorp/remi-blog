@@ -8,11 +8,13 @@ summary: "Ome Onno will produce a series of trading cards in a fictional, but
 tags:
   - post
 ---
+
+
+![](/static/img/imgbin-monster-girl-encyclopedia-basilisk-snake-lamia-snake-udajswqucw0v53yhltzfigrxs_t.jpg)
+
 The cards in the game will feature monsters, items and traps. The monsters will all be some anthropomorphized to some form indicative of the female gender.
 
 *Format: Card name; Card category - subcategory; Meta rules; Description of play; Fluff quote; & Portrait*
-
-![](/static/img/untitled.png)
 
 Each cards will be prepared in thematic sets of 15 in collaboration with a RemCo or Remi Friends artist, providing the set unique speculative value according to each collaborating artist.
 
@@ -22,7 +24,7 @@ Each set of 15 will have 6-9 monster girl cards. If all monster girls in the set
 
 *Note: There will be a 5% reseller fee on resale of cards to tax an exploit where users may all share their cards to each other and farm the free reward drop.*
 
-![](/static/img/imgbin-monster-girl-encyclopedia-basilisk-snake-lamia-snake-udajswqucw0v53yhltzfigrxs_t.jpg)
+![](/static/img/untitled.png)
 
 "Set Booster Packs" holding cards of only a specific set will be sold, but only during the period of which that set is "printing", and a new collaborative set has not been released; at which point that new set will be sold in the Set Booster Pack. In this way, after the initial round, collecting all the cards in an older set can only be achieved through trading, or increasingly diluted booster packs.
 

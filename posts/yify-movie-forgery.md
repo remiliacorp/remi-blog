@@ -12,7 +12,7 @@ tags:
   - financial-minigames
   - nft-musings
 ---
-![](https://time.com/3505849/pulp-fiction-20-years/)
+![](https://api.time.com/wp-content/uploads/2014/10/pulp-fiction.jpeg)
 
 Testing the market limitations of NFT. If one takes an artwork he does not hold copyright to, and mints it, it's considered a "forgery" - not by any protocol or legal definition, but by market sentiment. The work would be devalued if the real artist were to  Even an unclearly copyrighted work, such as a meme, might be minted today by anyone, but later the real artist arrives with proof that he created the meme, it would (presumably) retroactively devalue the original "forgery". Or would it?
 

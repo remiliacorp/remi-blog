@@ -6,6 +6,8 @@ summary: There is an ancient Chinese proverb that says “You can put a price on
   gold, but jade is priceless.”
 tags:
   - post
+  - remilia-philosophy
+  - remilia-world
 ---
 ![](/static/img/jade_cabbage_closeup.jpg)
 

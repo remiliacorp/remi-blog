@@ -1,14 +1,13 @@
 ---
-title: Jade Cabbage
+title: The Jade Cabbage
 date: 2021-03-12T00:15:57.677Z
 author: Anonymous
-summary: There is an ancient Chinese proverb that says “You can put a price on
-  gold, but jade is priceless.”
+summary: You can put a price on gold, but jade is priceless.
 tags:
   - post
   - remilia-philosophy
   - remilia-world
-  - project
+  - projects
 ---
 ![](/static/img/jade_cabbage_closeup.jpg)
 

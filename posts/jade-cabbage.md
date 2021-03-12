@@ -8,6 +8,7 @@ tags:
   - post
   - remilia-philosophy
   - remilia-world
+  - project
 ---
 ![](/static/img/jade_cabbage_closeup.jpg)
 

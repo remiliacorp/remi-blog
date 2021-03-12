@@ -22,6 +22,6 @@ What is being forged here? The movie itself? Is it not forging's YIFY's own pira
 
 The question of where copyright intervenes on NFT's ownership rights is unexplored. If I own the NFT of a work, do I also own its copyright? If this is the case, NFT has succeeded in thoroughly separating authorship from ownership of the work, with its first sale its release from the creator's rights.
 
-And of course, given the raw material of a movie, what results would see in the market with it split into clips. We can guess ionic scenes would be highly valued, but a speculative market exists in determining what scenes are truly valuable. 
+What results would we see in the market with the raw material of a classic movie split into clips? We can guess iconic scenes would be highly valued, but a speculative market exists in determining what scenes are truly valuable.
 
-This is also a random arbitration, content generated from the base of the existing film, due to the brute time-blocked rule of 15 seconds; it is extremely extensible as well.
+This is also a random arbitration, content generated from the base of the existing film, due to the brute time-blocked rule of 15 seconds; it is extremely extensible as well, with the pool of movies to pilfer from.

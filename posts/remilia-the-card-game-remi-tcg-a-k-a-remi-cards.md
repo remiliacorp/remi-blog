@@ -1,5 +1,5 @@
 ---
-title: Remilia The Card Game (Remi TCG a.k.a. Remi Cards
+title: Remilia Cards
 date: 2021-03-11T23:33:44.544Z
 author: Anonymous
 summary: "Ome Onno will produce a series of trading cards in a fictional, but
@@ -8,6 +8,7 @@ summary: "Ome Onno will produce a series of trading cards in a fictional, but
 tags:
   - post
   - projects
+  - remilia-cards
 ---
 
 
